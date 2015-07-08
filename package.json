@@ -1,0 +1,11 @@
+{
+	"name": "LarveSpeer-tags",
+	"version": "0.0.2",
+	"description": "Description Render a csv file.",
+	"private": true,
+	"dependencies": {
+		"express": "x",
+		"jade": "x",
+		"uuid": "x"
+	}
+}
